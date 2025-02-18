@@ -1,0 +1,5 @@
+{
+  "appService.zipIgnorePattern": ["node_modules{,/**}", ".vscode{,/**}"],
+  "appService.defaultWebAppToDeploy": "/subscriptions/317b39df-4a9a-450a-a4b1-0e0cf585d716/resourceGroups/emotionResource/providers/Microsoft.Web/sites/emotionlive",
+  "appService.deploySubpath": "."
+}
